@@ -18,7 +18,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+---"If you change the way you look at things, the things you look at change."
+
+Khader Afeez
+
 [![](https://visitcount.itsvg.in/api?id=khaderafeez&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
